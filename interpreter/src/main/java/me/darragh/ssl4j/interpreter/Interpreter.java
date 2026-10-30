@@ -5,7 +5,6 @@ import me.darragh.ssl4j.Instruction;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.List;
-import java.util.Scanner;
 import java.util.Stack;
 
 /**
